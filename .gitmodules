@@ -1,0 +1,3 @@
+[submodule "external/SWE-Master"]
+	path = external/SWE-Master
+	url = git@github.com:RUCAIBox/SWE-Master.git
