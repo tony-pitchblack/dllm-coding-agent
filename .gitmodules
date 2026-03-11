@@ -1,6 +1,6 @@
 [submodule "external/SWE-Master"]
 	path = external/SWE-Master
-	url = git@github.com:RUCAIBox/SWE-Master.git
+	url = https://github.com/RUCAIBox/SWE-Master.git
 [submodule "external/DiRL"]
 	path = external/DiRL
 	url = https://github.com/OpenMOSS/DiRL
